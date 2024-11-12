@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj9671)](https://solved.ac/hj9671/)
 <!--
 **qhtneo/qhtneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
